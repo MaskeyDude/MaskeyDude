@@ -1,0 +1,5 @@
+- Assalam U Alaikum, I’m Omer Muhammad [OmerM] or Maskey Dude [MD]
+- I’m interested in PotaToes and creating things like right now I'm working on a new focus app
+- I’m currently learning well alot of things like Japanese, Javascript, React Native, video editing...you get the idea
+- Well you can ask things on my Twitter [@MaskeyDude] or Instagram [@maskey_dude]
+- Yallah is my style of saying that I'll return so...Yallah, Assalam U Alaikum :]
