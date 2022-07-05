@@ -11,6 +11,7 @@
   
   <img src="https://media.giphy.com/media/ZCSZp478OpzSMpAAFc/giphy.gif" width="500"/>
 
+- I like making some poetries or writing some stories
 - I prefer working solo but I think I can work as fine in groups too
 - I like working on projects but hate writing descriptions or choosing colors for them UnU
 - I’m interested in PotaToes and creating things like right now I'm working on a new focus app
@@ -39,5 +40,3 @@
 
 <hr>
 <h5 align="right">Yallah is my style of saying that I'll return so...Yallah, Assalam U Alaikum :]</h5>
-
-<img src="" alt=" Badge"/>
