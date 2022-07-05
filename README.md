@@ -1,4 +1,4 @@
-<h5 align="center">Assalam U Alaikum, I’m Omer Muhammad [OmerM] or Maskey Dude [MD]</h5>
+<h5 align="left">Assalam U Alaikum, I’m Omer Muhammad [OmerM] & also Maskey Dude [MD] :D</h5>
 <hr>
 
 <div align="center">
@@ -7,12 +7,22 @@
 
 </div>
 
-- I’m interested in PotaToes and creating things like right now I'm working on a new focus app
-- I’m currently learning well alot of things like Japanese, Javascript, React Native, video editing...you get the idea
-Yallah is my style of saying that I'll return so...Yallah, Assalam U Alaikum :]
-
-<div align="center">
+<div align="left">
+  
   <img src="https://media.giphy.com/media/ZCSZp478OpzSMpAAFc/giphy.gif" width="500"/>
+
+- I prefer working solo but I think I can work as fine in groups too
+- I like working on projects but hate writing descriptions or choosing colors for them UnU
+- I’m interested in PotaToes and creating things like right now I'm working on a new focus app
+- I'm a DIY person in most thing so that's why I try to learn alot of different things all at once '-'
+- I’m currently learning well alot of things like Japanese, Javascript, React Native, video editing...you get the idea
+  
+</div>
+
+<div align="right">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaskeyDude&layout=compact&theme=tokyonight)
+  
 </div>
 
 <div align="center">
@@ -27,10 +37,7 @@ Yallah is my style of saying that I'll return so...Yallah, Assalam U Alaikum :]
 </a>
 </div>
 
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaskeyDude&layout=compact&theme=tokyonight)
-  
-</div>
+<hr>
+<h5 align="right">Yallah is my style of saying that I'll return so...Yallah, Assalam U Alaikum :]</h5>
 
 <img src="" alt=" Badge"/>
