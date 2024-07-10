@@ -1,6 +1,9 @@
 <h5 align="left">Assalam U Alaikum, I’m Omer Muhammad [OmerM] & also Maskey Dude [MD] :D</h5>
 <hr>
 
+<div display="flex">
+  
+
 <div align="left">
   
   ![OmerM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaskeyDude&show_icons=false&theme=tokyonight)
@@ -13,6 +16,7 @@
 
 </div>
   
+</div>
   
 
 
