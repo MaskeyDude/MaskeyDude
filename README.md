@@ -2,11 +2,15 @@
 <hr>
 
 <div align="left">
+  
   ![OmerM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaskeyDude&show_icons=false&theme=tokyonight)
+  
 </div>
 
 <div align="right">
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaskeyDude&theme=tokyonight" alt="Maskey Dude" /> </p> 
+
 </div>
   
   
