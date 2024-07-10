@@ -3,6 +3,8 @@
 
 <div align="center">
   
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaskeyDude&theme=tokyonight" alt="Maskey Dude" /> </p> 
+
   ![OmerM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaskeyDude&show_icons=false&theme=tokyonight)
 
 </div>
@@ -11,12 +13,11 @@
   
   <img src="https://media.giphy.com/media/ZCSZp478OpzSMpAAFc/giphy.gif" width="500"/>
 
-- I like making some poetries or writing some stories
-- I prefer working solo but I think I can work as fine in groups too
-- I like working on projects but hate writing descriptions or choosing colors for them UnU
-- I’m interested in PotaToes and creating things like right now I'm working on a new focus app
-- I'm a DIY person in most thing so that's why I try to learn alot of different things all at once '-'
-- I’m currently learning well alot of things like Japanese, Javascript, React Native, video editing...you get the idea
+- I'm a future programmer i.e. a lil student of computer science!
+- I make the most random of projects (especially trying to make my website took a while)
+- I like writing and drawing and knitting and bookbinding and-
+- I talk a lot while trying to learn every crafting skill I can hehe
+- I like creating!!!
   
 </div>
 
@@ -26,7 +27,6 @@
   
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaskeyDude&theme=tokyonight" alt="Maskey Dude" /> </p> 
 
 <div align="center">
 <a href="https://www.youtube.com/channel/UCojHdIfvB5lIHrYD577E_5g/featured" target="_blank">
