@@ -26,6 +26,8 @@
   
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaskeyDude&theme=tokyonight" alt="Maskey Dude" /> </p> 
+
 <div align="center">
 <a href="https://www.youtube.com/channel/UCojHdIfvB5lIHrYD577E_5g/featured" target="_blank">
 <img src="https://img.shields.io/badge/Maskey%20Dude-black?logo=youtube&logoColor=white" alt="Youtube Badge"/>
