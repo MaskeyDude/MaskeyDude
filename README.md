@@ -1,12 +1,13 @@
 <h5 align="left">Assalam U Alaikum, I’m Omer Muhammad [OmerM] & also Maskey Dude [MD] :D</h5>
 <hr>
 
-<div align="center">
+<div align="left">
   
-  <p align="left"> ![OmerM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaskeyDude&show_icons=false&theme=tokyonight) </p>
-  <p align="right"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaskeyDude&theme=tokyonight" alt="Maskey Dude" /> </p> 
-  
+![OmerM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaskeyDude&show_icons=false&theme=tokyonight)
+    
 </div>
+  
+  <p align="right"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaskeyDude&theme=tokyonight" alt="Maskey Dude" /> </p> 
   
 <div align="left">
   
