@@ -29,18 +29,17 @@
 
 
 <div align="center">
+<a href="https://www.omerm.42web.io/index.html" target="_blank">
+<img src="https://img.shields.io/badge/OmerM-darkblue?logo=web&logoColor=white" alt=" Badge"/>
+</a>
 <a href="https://www.youtube.com/channel/UCojHdIfvB5lIHrYD577E_5g/featured" target="_blank">
 <img src="https://img.shields.io/badge/Maskey%20Dude-black?logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
 <a href="https://twitter.com/maskeydude" target="_blank">
-<img src="https://img.shields.io/badge/MaskeyDude-black?logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<img src="https://img.shields.io/badge/MaskeyDude-black?logo=X&logoColor=white" alt="Twitter Badge"/>
 </a>
 <a href="https://www.instagram.com/maskey_dude/" target="_blank">
 <img src="https://img.shields.io/badge/maskey__dude-black?logo=instagram&logoColor=white" alt=" Badge"/>
-</a>
-
-<a href="https://www.omerm.42web.io/index.html" target="_blank">
-<img src="https://img.shields.io/badge/omerm-black?logo=web&logoColor=white" alt=" Badge"/>
 </a>
 </div>
 
